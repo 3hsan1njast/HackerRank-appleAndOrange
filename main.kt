@@ -3,12 +3,6 @@ fun main() {
 }
 
 fun countApplesAndOranges(s: Int, t: Int, a: Int, b: Int, apples: Array<Int>, oranges: Array<Int>) {
-//    s: house starting point
-//    t: house ending point
-//    a: location of Apple Tree
-//    b: location of Orange Tree
-//    apples, oranges: distances at which each apple falls from the tree
-
     var appleCount = 0
     var orangeCount = 0
 
@@ -32,5 +26,4 @@ fun countApplesAndOranges(s: Int, t: Int, a: Int, b: Int, apples: Array<Int>, or
 
     println(appleCount)
     println(orangeCount)
-
 }
