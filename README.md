@@ -14,3 +14,5 @@ Sam's house has an apple tree and an orange tree that yield an abundance of frui
 - `b` : integer, location of the Orange tree.
 - `apples` : integer array, distances at which each apple falls from the tree.
 - `oranges` : integer array, distances at which each orange falls from the tree.
+
+### Full description: <a href="https://www.hackerrank.com/challenges/apple-and-orange/problem">HackerRank - Apple and Orange</a>
